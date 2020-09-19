@@ -10,7 +10,6 @@
  - 🔭<b> I’m currently working on Capstone Project </b>
  - 🌱<b> I’m currently learnining Javascript and Node js </b>
  - 🥅<b> 2020 Goals: Steps towards algorithm analysis and competitive programming </b>
- - 🥅<b> 2020 Goals: Steps towards algorithm analysis and competitive programming </b>
  - ⚡<b> Fun fact: I love to write quotes and play online game </b>
 
 ### Spotify Playing 🎧
