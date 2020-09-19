@@ -22,6 +22,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vivek-kumar-singh-6a32a3190/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/rays_of_flash_byvivek/?hl=en)
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/vivek1234singh)
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](https://www.vivek389singh@gmail.com)
 
 
 <br />
@@ -41,8 +42,6 @@
 <br />
 
 <hr/>
-
-
 
 [<img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vivek38singh&show_icons=true&hide_border=true&theme=algolia" />]()
 
