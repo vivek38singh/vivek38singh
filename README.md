@@ -1,8 +1,5 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
-## Hello World ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm VIVEK SINGH 👋
+
+### Hello World ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm VIVEK SINGH 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/viveksingh3899?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/viveksingh3899)
 
