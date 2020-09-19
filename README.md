@@ -36,7 +36,9 @@
  <a href="https://www.facebook.com/vivek1234singh" target="blank">
   <img align="center" alt="Vivek Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" /> &nbsp; &nbsp;
  </a>
-
+<a href="https://www.vivek389singh@gmail.com" target="blank">
+  <img align="center" alt="Vivek gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /> &nbsp; &nbsp;
+ </a>
 
 <br />
 
