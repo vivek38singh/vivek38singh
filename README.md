@@ -51,7 +51,7 @@
 [<img align="left" alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
 [<img align="left" alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
 [<img align="left" alt="mswword" src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
-[<img align="left" alt="msexcel" src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
+[<img align="left" alt="msexcel" src="https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)<br/>
 [<img align="left" alt="mspwt" src="https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
 <br />
 <hr/>
