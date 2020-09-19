@@ -42,7 +42,7 @@
  </a>
 <br/>
 </p>
-<br />
+<br/>
 
 ### Languages and Tools:
 
@@ -56,8 +56,9 @@
 
 <br />
 <hr/>
-
-[<img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vivek38singh&show_icons=true&hide_border=true&theme=algolia" />]()
+<p align="center">
+<img align="center" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=vivek38singh&show_icons=true&hide_border=true&theme=algolia" />
+ </p>
 <br />
 
 
