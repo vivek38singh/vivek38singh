@@ -21,14 +21,21 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="250" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-### Connect with me:
+### Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/viveksingh3899)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/vivek-kumar-singh-6a32a3190/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/rays_of_flash_byvivek/?hl=en)
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/vivek1234singh)
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](https://www.vivek389singh@gmail.com)
+<a href="https://twitter.com/viveksingh3899" target="blank">
+  <img align="center" alt="Vivek Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ </a>
+<a href="https://www.linkedin.com/in/vivek-kumar-singh-6a32a3190/" target="blank">
+  <img align="center" alt="Vivek LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+<a href="https://www.instagram.com/rays_of_flash_byvivek/?hl=en" target="blank">
+  <img align="center" alt="Vivek Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://www.facebook.com/vivek1234singh" target="blank">
+  <img align="center" alt="Vivek Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" /> &nbsp; &nbsp;
+ </a>
 
 
 <br />
