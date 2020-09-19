@@ -19,10 +19,6 @@
  - 🥅<b> 2020 Goals: Steps towards algorithm analysis and competitive programming </b>
  - ⚡<b> Fun fact: I love to write quotes and play online game </b>
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="250" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 ### Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
 <p align="left">
