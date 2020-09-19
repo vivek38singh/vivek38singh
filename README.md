@@ -7,10 +7,10 @@
 ## I'm a Programmer, Developer, and Orator!
 
 
-##### - 🔭 I’m currently working on Capstone Project 
-##### - 🌱 I’m currently learnining Javascript and Node js
-##### - 🥅 2020 Goals: Steps towards algorithm analysis and competitive programming
-##### - ⚡ Fun fact: I love to write quotes and play online game 
+ - 🔭<b> I’m currently working on Capstone Project </b>
+ - 🌱 I’m currently learnining Javascript and Node js
+ - 🥅 2020 Goals: Steps towards algorithm analysis and competitive programming
+ - ⚡ Fun fact: I love to write quotes and play online game 
 
 ### Spotify Playing 🎧
 
