@@ -9,6 +9,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/viveksingh3899?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/viveksingh3899)
 
 ## I'm a Programmer, Developer, and Orator!
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
  - 🔭<b> I’m currently working on Capstone Project </b>
@@ -34,13 +35,13 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
-[<img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />]()
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
+[<img align="left" alt="Python"  src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
+[<img align="left" alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
+[<img align="left" alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
+[<img align="left" alt="MYSQL"  src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
+[<img align="left" alt="c++"  src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
+[<img align="left" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/vivek38singh)
+[<img align="left" alt="Git" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
 
 <br />
 <hr/>
