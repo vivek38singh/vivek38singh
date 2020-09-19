@@ -44,10 +44,11 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Python"  src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
+[<img align="left" alt="c++"  src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
 [<img align="left" alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
 [<img align="left" alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
 [<img align="left" alt="MYSQL"  src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
-[<img align="left" alt="c++"  src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
+[<img align="left" alt="problem solving"  src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
 [<img align="left" alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
 [<img align="left" alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh) <br /> <br />
 [<img align="left" alt="mswword" src="https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
