@@ -40,7 +40,6 @@
 <a href="https://www.vivek389singh@gmail.com" target="blank">
   <img align="center" alt="Vivek gmail" width="30px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" /> &nbsp; &nbsp;
  </a>
-<br/>
 </p>
 <br/>
 
