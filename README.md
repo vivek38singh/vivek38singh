@@ -1,5 +1,5 @@
 <p align="center">
- <img width="60px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="profile logo" />
+ <img width="50px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="profile logo" />
  <h2 align="center">Profile </h2>
 </p>
 
@@ -10,6 +10,7 @@
  <br/>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/viveksingh3899?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/viveksingh3899) 
+[![GitHub Follow](https://img.shields.io/github/followers/vivek38singh?color=1DA1F2&logo=github&style=for-the-badge)](https://github.com/vivek38singh)
 
 ## I'm a Programmer, Developer, and Orator!
   <img align="right" alt="GIF" width="350" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
