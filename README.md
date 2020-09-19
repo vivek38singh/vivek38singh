@@ -40,8 +40,8 @@
 [<img align="left" alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
 [<img align="left" alt="MYSQL"  src="https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
 [<img align="left" alt="c++"  src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
-[<img align="left" alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/vivek38singh)
-[<img align="left" alt="Git" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
+[<img align="left" alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
+[<img align="left" alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/vivek38singh" />](https://github.com/vivek38singh)
 
 <br />
 <hr/>
