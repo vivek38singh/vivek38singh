@@ -5,6 +5,7 @@
 
 ## I'm a Programmer, Developer, and Orator!
 <hr/>
+
 - 🔭 I’m currently working on Capstone Project 
 - 🌱 I’m currently learnining Javascript and Node js
 - 🥅 2020 Goals: Contribute more to Open Source projects
