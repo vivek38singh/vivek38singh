@@ -6,7 +6,7 @@
 
 ### Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm VIVEK SINGH 👋  <img align="right" src="https://komarev.com/ghpvc/?username=vivek38singh" alt="vivek38singh" />
 
-<em>Currently Currently working for Cognizant Technology Solution as a Production Support Engineer for US based client of UPS.
+<em>Currently Currently working for Cognizant Technology Solution as a Production Support Engineer for US based client of UPS.<br/>
 <em>I completed my graduation in Comupter Science from <a href="https://www.galgotiasuniversity.edu.in/"><b>Galgotias University, Greater Noida </b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/>
 
