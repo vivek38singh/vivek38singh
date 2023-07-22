@@ -17,9 +17,9 @@
   <img align="right" alt="GIF" width="350" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 
- - 🔭<b> I’m currently working on Capstone Project </b>
+ - 🔭<b> I’m currently working as Programmer Analyst in COgnizant </b>
  - 🌱<b> I’m currently learnining ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) and ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933) </b>
- - 🥅<b> 2020 Goals: Steps towards algorithm analysis and competitive programming </b>
+ - 🥅<b> 2023 Goals: Steps towards Data Analysis and Power Bi analyst </b>
  - ⚡<b> Fun fact: I love to write quotes and play online game </b>
 
 ### Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
